@@ -56,8 +56,10 @@
     "generate-llms-txt": "0.0.0"
   },
   "changesets": [
+    "clean-numbers-cover",
     "cuddly-icons-kick",
     "green-deers-scream",
+    "seven-pens-itch",
     "silent-nails-taste",
     "smooth-mirrors-kneel"
   ]
